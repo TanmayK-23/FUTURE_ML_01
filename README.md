@@ -33,6 +33,7 @@ To maintain clarity and readability, historical actual sales and future forecast
 
 ## Repository Structure
 
+```
 data/
 ├── superstore.csv
 └── processed/
@@ -47,6 +48,7 @@ powerbi/
 
 requirements.txt
 README.md
+```
 
 ---
 
