@@ -31,19 +31,22 @@ To maintain clarity and readability, historical actual sales and future forecast
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 data/
-├── raw/                # Original dataset (optional)
+├── superstore.csv
 └── processed/
-├── monthly_actuals.csv
-└── sales_forecast.csv
+    ├── monthly_actuals.csv
+    └── sales_forecast.csv
 
 notebooks/
-└── sales_forecasting.ipynb
+└── sales_analysis.ipynb
 
 powerbi/
 └── Retail_Sales_Forecasting_Dashboard.pbix
+
+requirements.txt
+README.md
 
 ---
 
